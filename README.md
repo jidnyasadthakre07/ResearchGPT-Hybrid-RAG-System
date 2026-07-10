@@ -502,27 +502,6 @@ Compare BERT and GPT models
 Summarize this research paper
 ```
 
-
----
-
-# 📸 Application Screenshots
-
-
-## Home Page
-
-(Add screenshot here)
-
-
-## Document Processing
-
-(Add screenshot here)
-
-
-## Chat Interface
-
-(Add screenshot here)
-
-
 ---
 
 
