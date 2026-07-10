@@ -1,0 +1,28 @@
+# Environment
+.env
+venv/
+
+
+# Python
+__pycache__/
+*.pyc
+
+
+# Vector Database
+vectorstore/
+*.faiss
+*.pkl
+
+
+# Uploaded documents
+data/raw/*
+data/processed/*
+
+
+# Keep folders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+
+# IDE
+.vscode/s
