@@ -393,7 +393,7 @@ ResearchGPT-Hybrid-RAG
 
 
 ```bash
-git clone https://github.com/jidnyasadthakre07/ResearchGPT-Hybrid-RAG-
+git clone https://github.com/jidnyasadthakre07/ResearchGPT-Hybrid-RAG-System
 ```
 Move inside folder:
 
